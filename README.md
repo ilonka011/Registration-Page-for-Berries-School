@@ -22,8 +22,8 @@ Through this project, I learned about the reset type of input. I also learned th
 
 #Goals 
 
-I am planning to learn more about all the types of input and the details on them. I want to expand my knowledge as well as improve my skills on CSS in 
-general.
+I am planning to learn more about all the types of input and the details on them. I want to expand my knowledge as well as improve my skills on CSS in general.
+Also, the website does not look good on the phone screen which either should be fixed or should be deleted. 
 
 #Author 
 
