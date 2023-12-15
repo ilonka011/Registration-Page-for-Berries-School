@@ -3,7 +3,7 @@ Registration Page with CSS Grid
 
 #Overview 
 
-In this project, I created a registration form that takes the user's first and last name, email address, password, course they wish to participate in and 
+In this project, I created a somewhat dinamic registration form that takes the user's first and last name, email address, password, course they wish to participate in and 
 any questions/comments they might have. 
 
 
