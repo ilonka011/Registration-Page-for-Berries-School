@@ -7,7 +7,7 @@ In this project, I created a registration form that takes the user's first and l
 any questions/comments they might have. 
 
 
-#Links 
+#Links
 
 Project Solution: https://ilonka011.github.io/Registration-Page-for-Berries-School/
 Pages Live: https://github.com/ilonka011/Registration-Page-for-Berries-School/deployments/activity_log?environment=github-pages
